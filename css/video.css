@@ -1,0 +1,9 @@
+.main__video {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+.main__video-record {
+    width: fit-content;
+    height: auto;
+}

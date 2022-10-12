@@ -1,0 +1,15 @@
+.footer {
+    background-color: var(--background-color-alternative);
+}
+.footer__block {
+    display: flex;
+    justify-content: end;
+}
+.footer__block-title {
+    margin: 10px;
+}
+.title-link {
+}
+.footer__copyright {
+    text-align: end;
+}
